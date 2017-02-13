@@ -1,0 +1,12 @@
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\UnityEditor.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\UnityEngine.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\nunit.framework.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity go\HearthStone\HearthStone\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity go\HearthStone\HearthStone\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Unity go\HearthStone\HearthStone\obj\Debug\Assembly-CSharp.dll
+D:\Unity go\HearthStone\HearthStone\obj\Debug\Assembly-CSharp.pdb
